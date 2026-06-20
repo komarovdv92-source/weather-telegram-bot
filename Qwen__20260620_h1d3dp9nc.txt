@@ -1,0 +1,9 @@
+weather-bot/
+├── bot.py              # Главный файл
+├── config.py           # Настройки
+├── requirements.txt    # Зависимости
+├── README.md           # Описание проекта
+└── screenshots/        # Скриншоты работы
+    ├── start.png
+    ├── weather.png
+    └── forecast.png
